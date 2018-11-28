@@ -1,0 +1,24 @@
+{
+  "name": "userscript-requirejs",
+  "version": "0.0.2",
+  "description": "Polyfill for importing CommonJS libraries from Tampermonkey",
+  "main": "userscript-require.js",
+  "scripts": {
+    "build-min": "gulp build-min"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://plohoj@github.com/plohoj/userscript-requirejs.git"
+  },
+  "author": "Plokhih Alexandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plohoj/userscript-requirejs/issues"
+  },
+  "homepage": "https://github.com/plohoj/userscript-requirejs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "rollup": "^0.67.3",
+    "rollup-plugin-babel-minify": "^6.2.0"
+  }
+}
