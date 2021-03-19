@@ -4,7 +4,7 @@ Usage example
 ```js
 // ==UserScript==
 // @name         Your UserScript
-// @require      https://github.com/plohoj/userscript-requirejs/releases/download/0.0.1/userscript-require.js
+// @require      https://github.com/plohoj/userscript-requirejs/releases/download/0.0.2/userscript-require.js
 // @resource     requirejs   https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.js
 // @resource     rxjs        https://cdnjs.cloudflare.com/ajax/libs/rxjs/6.3.3/rxjs.umd.js
 // @match        http://localhost:8080/*
